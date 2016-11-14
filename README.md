@@ -1,2 +1,2 @@
-# git-testrepo
-my first repo
+# This is a readme file
+Hello cloud gurus
